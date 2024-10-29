@@ -1,0 +1,18 @@
+body {
+  font-family: $font;
+  color: $white-color;
+}
+
+.heading {
+  font-size: $font-size-xxl;
+  font-weight: $font-weight-bold;
+  line-height: 1;
+  color: $secondary-color;
+  padding-bottom: 20px;
+}
+
+.text {
+  font-size: $font-size-n;
+  line-height: 1.5;
+  padding-bottom: 20px;
+}
